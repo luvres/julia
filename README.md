@@ -1,4 +1,4 @@
-# IJulia with Jupyter for Appitainer 
+# IJulia with Jupyter for Apptainer 
 
 #### Build Julia
 ``docker build -t izone/julia -f Dockerfile .``
