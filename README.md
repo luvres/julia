@@ -5,10 +5,10 @@
 
 ``docker build -t izone/julia:1.8.3 -f Dockerfile .``
 
+
 #### Build Julia for Apptainer
-``
-apptainer pull ./ijulia.sif docker://izone/julia:latest
-``
+``apptainer pull ./ijulia.sif docker://izone/julia:latest``
+
 -----
 
 #### Run
