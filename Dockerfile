@@ -1,4 +1,4 @@
-FROM julia:1.8.3
+FROM julia:1.8.5
 MAINTAINER Leonardo Loures <luvres@hotmail.com>
 
 ENV PATH="/opt/conda/bin:${PATH}"

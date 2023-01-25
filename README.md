@@ -3,7 +3,7 @@
 #### Build Julia
 ``docker build -t izone/julia -f Dockerfile .``
 
-``docker build -t izone/julia:1.8.3 -f Dockerfile .``
+``docker build -t izone/julia:1.8.5 -f Dockerfile .``
 
 
 #### Build Julia for Apptainer
