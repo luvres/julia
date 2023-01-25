@@ -1,0 +1,4 @@
+FROM izone/julia:conda
+MAINTAINER Leonardo Loures <luvres@hotmail.com>
+
+RUN julia -e 'using Pkg ; Pkg.add("IJulia");'
